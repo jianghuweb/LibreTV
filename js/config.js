@@ -27,6 +27,10 @@ const API_SITES = {
         name: '电影天堂资源',
         detail: 'http://caiji.dyttzyapi.com', 
     },
+    hhzy: {
+        api: 'https://hhzyapi.com/api.php/provide/vod',
+        name: '豪华资源',
+    },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
